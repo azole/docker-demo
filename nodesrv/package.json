@@ -1,0 +1,14 @@
+{
+  "name": "nodesrv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hiredis": "^0.4.0",
+    "redis": "^0.12.1"
+  }
+}
