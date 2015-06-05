@@ -1,5 +1,6 @@
 # 參考資料
 
+- [Docker Taipei (FB社群)](https://www.facebook.com/groups/docker.taipei/)
 - [10個Q&A快速認識Docker](http://www.ithome.com.tw/news/91847)
 - [《Docker —— 從入門到實踐­》正體中文版](https://www.gitbook.com/book/philipzheng/docker_practice/details)
 - [Docker Workshop - William Yeh](https://github.com/William-Yeh/docker-workshop)
