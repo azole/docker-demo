@@ -1,0 +1,13 @@
+web:
+  image: node:0.10.38
+  command: node index.js
+  ports:
+   - "8080:80"
+  volumes:
+   - .:/nodesrv
+  links:
+   - myredis:redis
+  privileged: true
+  working_dir: /nodesrv
+myredis:
+  image: redis
